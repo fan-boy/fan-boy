@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aaditya Shete
 - 👀 I’m interested in design and all things tech!
 - 🌱 I’m currently pursuing masters in HCIM in UMD.
-- 💞️ I’m looking to collaborate product design internships.
+- ⚙️ I’m looking for full time roles.
 
 <!---
 fan-boy/fan-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
