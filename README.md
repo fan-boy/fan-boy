@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaditya Shete
 - 👀 I’m interested in design and all things tech!
-- 🌱 I’m currently pursuing masters in HCIM in UMD.
+- 🌱 I’m currently working with non profits.
 - ⚙️ I’m looking for full time roles.
 
 <!---
